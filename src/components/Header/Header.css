@@ -1,0 +1,13 @@
+.active {
+  text-decoration: none;
+  color: rgb(88 39 207);
+  border-bottom: 2px solid rgb(88 39 207);
+  margin-right: 10px;
+
+}
+
+.inactive {
+    text-decoration: none;
+    margin-right: 10px;
+    color: gray;   
+}
