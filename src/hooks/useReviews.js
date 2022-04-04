@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 
 const useReviews = () => {
 	const [reviews, setReviews] = useState([]);
+	const [isLoading, setIsLoading] = useState(true);
 
 	const getUserReviews = async () => {
 		try {
@@ -9,6 +10,7 @@ const useReviews = () => {
 			const response = await fetch(reviewsUrl);
 			const data = await response.json();
 			setReviews(data);
+			setIsLoading(false);
 		} catch (error) {
 			console.log(error);
 		}
@@ -18,7 +20,7 @@ const useReviews = () => {
 		getUserReviews();
 	}, []);
 
-	return [reviews, setReviews];
+	return [reviews, setReviews, isLoading];
 };
 
 export default useReviews;
