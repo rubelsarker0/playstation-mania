@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "reviewerImg": "https://pbs.twimg.com/profile_images/981311875643195393/dS0t6BQ8_400x400.jpg",
+      "reviewerName": "Mosh Hamedani",
+      "reviewerComment": "Amazing console!! The graphics to the load time to the smoothness of playing is all amazing but when I got the PlayStation, the power cord that came with it didn’t work so I had to use the power cord from my PS4 for it to work. But overall it’s still an amazing console and would definitely recommend buying it.",
+      "reviewerRating": 4.9
+    },
+    {
+      "id": 2,
+      "reviewerImg": "https://i.scdn.co/image/ab6761610000e5eb985f78303ccc958452778110",
+      "reviewerName": "John Smith ",
+      "reviewerComment": "Great speed and graphics.Compatible with PS4 games!! Best surprise ever for my boys after waiting 7mths for their Xmas 2020 present. They love this and boast amazing graphics and speed. Best thing was that they still can play their PS4 games on it though the graphics are same as the PS4 console for those.",
+      "reviewerRating": 4.7
+    },
+    {
+      "id": 3,
+      "reviewerImg": "https://d33wubrfki0l68.cloudfront.net/3156dc4cf5f0f6b69cde5bdd18f0ff31eccb14e0/67c46/img/f21b00ed-300.jpeg",
+      "reviewerName": "Kevin Powell",
+      "reviewerComment": "Next generation gaming experience!! I got it next day after ordering,super happy, I tried so hard to get one , gaming experience was so much better than ps4 , love it ,thank you smyths",
+      "reviewerRating": 4.8
+    },
+    {
+      "id": 4,
+      "reviewerImg": "https://avatars.githubusercontent.com/u/5550850?v=4",
+      "reviewerName": "Brad Traversy",
+      "reviewerComment": "Brilliant console. I am so happy and with the consul the best consul ever I got it two weeks ago and is the best place for you to ever thank you very much playstation mania",
+      "reviewerRating": 4.7
+    },
+    {
+      "id": 5,
+      "reviewerImg": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/284832/settings_images/rLlCifhXRJiT0RoN2FjK_Logo_roundbackground_black.png",
+      "reviewerName": "Rafeh Qazi",
+      "reviewerComment": "Faster than a speeding bullet Ordered Thursday night arrived the next morning. Impressive. Been checking morning, noon & night for weeks. Jnr so happy, PS5 is a fantastic piece of kit, well worth the wait. Just need GT7 now he says, my poor wallet.",
+      "reviewerRating": 4.3
+    },
+    {
+      "id": 6,
+      "reviewerImg": "https://yt3.ggpht.com/ytc/AKedOLSowrL4BoA86rSaB6mRRJTuCO02S7j6n69tDj485w=s900-c-k-c0x00ffffff-no-rj",
+      "reviewerName": "Joshua Fluke",
+      "reviewerComment": "Excellent!! I got this in summer and it’s honestly amazing. The graphics are brilliant and the quality. Way better than the Xbox series X",
+      "reviewerRating": 4.6
+    },
+    {
+      "id": 7,
+      "reviewerImg": "https://yt3.ggpht.com/ytc/AKedOLS9pkMZ_w6xiWfV0k0waHGZLMbOVQMS3YgqYA7OoA=s900-c-k-c0x00ffffff-no-rj",
+      "reviewerName": "Daniel Shiffman",
+      "reviewerComment": "Great Graphics and Features! I played on a ps5 recently and it’s amazing how good the graphics are and the fact that they got a built in mic is really cool.I am not a fan of the size but they are overall really good. (I really recommend getting one)",
+      "reviewerRating": 4.2
+    },
+    {
+      "id": 8,
+      "reviewerImg": "https://pbs.twimg.com/profile_images/1490901062428946436/SPg2WmEU_400x400.jpg",
+      "reviewerName": "Shaun Pelling",
+      "reviewerComment": "Great Job. Omg..I finally have this baby in my hands...it came very fast..and the best part I don't have to be on any silly waiting list. It's AWESOME!!!!!",
+      "reviewerRating": 4.8
+    },
+    {
+      "id": 9,
+      "reviewerImg": "https://pbs.twimg.com/profile_images/1477841735170473985/9JV9uHYe_400x400.jpg",
+      "reviewerName": "Luba Yudasina",
+      "reviewerComment": "A very happy customer. Very happy, the controller does a great job of improving immersion and I'm very happy with the psplus games collection.",
+      "reviewerRating": 4.5
+    },
+    {
+        "id": 10,
+        "reviewerImg": "https://pbs.twimg.com/profile_images/1404817306031562756/5cHmpCuL_400x400.jpg",
+        "reviewerName": "Scott Tolinski",
+        "reviewerComment": "Worth it. This next gen piece of tech has got me addicted. And it's so simple to set up on the console and setting the actual thing up. Yes.",
+        "reviewerRating": 4.6
+      }
+  ]
