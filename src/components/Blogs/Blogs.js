@@ -8,7 +8,9 @@ const Blogs = () => {
 				<Col>
 					<Card className="border-0 shadow-sm">
 						<Card.Body>
-							<Card.Title>What is Context API</Card.Title>
+							<Card.Title className="generic-text-color">
+								What is Context API
+							</Card.Title>
 							<Card.Text>
 								<ListGroup variant="flush">
 									<ListGroup.Item></ListGroup.Item>
@@ -23,7 +25,7 @@ const Blogs = () => {
 										React app to produce global variables that can be passed
 										around effectively.
 									</ListGroup.Item>
-									<h5 className="pt-3">How does it work?</h5>
+									<h5 className="generic-text-color pt-3">How does it work?</h5>
 									<ListGroup.Item className="text-align-justify">
 										React.createContext() is all you need. It returns a consumer
 										and a provider. The provider is a component that provides
@@ -41,15 +43,18 @@ const Blogs = () => {
 				<Col>
 					<Card className="border-0 shadow-sm">
 						<Card.Body>
-							<Card.Title>What is inline, block and inline-block?</Card.Title>
+							<Card.Title className="generic-text-color">
+								What is inline, block and inline-block?
+							</Card.Title>
 							<Card.Text>
 								<ListGroup variant="flush">
 									<ListGroup.Item></ListGroup.Item>
 									<ListGroup.Item className="text-align-justify">
-										<span className="fs-5">Inline: </span>Inline elements don’t
-										start on a new line, they appear on the same line as the
-										content and tags beside them. Some examples of inline
-										elements are <span className="fs-5">span</span>,
+										<span className="generic-text-color fs-5">Inline: </span>
+										Inline elements don’t start on a new line, they appear on
+										the same line as the content and tags beside them. Some
+										examples of inline elements are{' '}
+										<span className="fs-5">span</span>,
 										<span className="fs-5"> strong</span>, and
 										<span className="fs-5"> img </span>tags. When it comes to
 										margins and padding, browsers treat inline elements
@@ -58,22 +63,25 @@ const Blogs = () => {
 										bottom padding or margin of an inline element.
 									</ListGroup.Item>
 									<ListGroup.Item className="text-align-justify">
-										<span className="fs-5">Block:</span> A block element always
-										starts on a new line, and fills up the horizontal space left
-										and right on the web page. You can add margins and padding
-										on all four sides of any block element — top, right, left,
-										and bottom. Some examples of block elements are
+										<span className="generic-text-color fs-5">Block:</span> A
+										block element always starts on a new line, and fills up the
+										horizontal space left and right on the web page. You can add
+										margins and padding on all four sides of any block element —
+										top, right, left, and bottom. Some examples of block
+										elements are
 										<span className="fs-5 ps-2">div</span> and
 										<span className="fs-5 ps-2">p </span>
 										tags
 									</ListGroup.Item>
 									<ListGroup.Item className="text-align-justify">
-										<span className="fs-5">Inline-Block:</span> Inline-block
-										elements are similar to inline elements, except they can
-										have padding and margins added on all four sides. You’ll
-										have to declare display: inline-block in your CSS code. One
-										common use for using inline-block is for creating navigation
-										links.
+										<span className="generic-text-color fs-5">
+											Inline-Block:
+										</span>{' '}
+										Inline-block elements are similar to inline elements, except
+										they can have padding and margins added on all four sides.
+										You’ll have to declare display: inline-block in your CSS
+										code. One common use for using inline-block is for creating
+										navigation links.
 									</ListGroup.Item>
 									<ListGroup.Item></ListGroup.Item>
 								</ListGroup>
@@ -84,7 +92,9 @@ const Blogs = () => {
 				<Col>
 					<Card className="border-0 shadow-sm">
 						<Card.Body>
-							<Card.Title>What Is Semantic Tag </Card.Title>
+							<Card.Title className="generic-text-color">
+								What Is Semantic Tag
+							</Card.Title>
 							<Card.Text>
 								<ListGroup variant="flush">
 									<ListGroup.Item></ListGroup.Item>
@@ -95,7 +105,9 @@ const Blogs = () => {
 										because they accurately describe the purpose of the element
 										and the type of content that is inside them.
 									</ListGroup.Item>
-									<h5 className="pt-3">Why use semantic elements?</h5>
+									<h5 className="generic-text-color pt-3">
+										Why use semantic elements?
+									</h5>
 									<ListGroup.Item></ListGroup.Item>
 									<ListGroup.Item>
 										<li>First, it is much easier to read. </li>
