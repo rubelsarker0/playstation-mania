@@ -22,7 +22,7 @@ _Our mission is very clear - we want to provide the highest standard of gaming s
 
 > Clone the application from github using this link:
 
-- [x] https://github.com/programming-hero-web-course-4/product-analysis-website-rubelsarker0
+- [x] https://github.com/rubelsarker0/playstation-mania
 
 # Site live url:
 
